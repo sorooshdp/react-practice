@@ -1,7 +1,7 @@
 // our-domain.com/new-meetup
 "use client";
 
-import NewMeetupForm from '../../../components/meetups/NewMeetupForm';
+import NewMeetupForm from '../../components/meetups/NewMeetupForm';
 
 function NewMeetupPage() {
   function addMeetupHandler(enteredMeetupData) {
